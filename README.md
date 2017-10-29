@@ -1,2 +1,2 @@
 # faceblox
-Sliding puzzle!
+[Sliding puzzle!](https://en.wikipedia.org/wiki/Sliding_puzzle)
